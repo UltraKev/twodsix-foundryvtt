@@ -1,3 +1,35 @@
+# [0.4.0](https://github.com/UltraKev/twodsix-foundryvtt/compare/v0.3.8...v0.4.0) (2020-08-29)
+
+
+### Bug Fixes
+
+* Cascade works better, still only on animals skill. ([c7ff0f8](https://github.com/UltraKev/twodsix-foundryvtt/commit/c7ff0f808b16c121b18c37e42c9083224140b13e))
+* Cascade works better, still only on animals skill. ([33ee24b](https://github.com/UltraKev/twodsix-foundryvtt/commit/33ee24bdced37541d3d3c0ee6560844da76b0a07))
+* Cleanup and renaming ([f456400](https://github.com/UltraKev/twodsix-foundryvtt/commit/f4564003105730795e78dd72b0f6b3a7673b0817))
+* Cleanup and renaming ([11073ec](https://github.com/UltraKev/twodsix-foundryvtt/commit/11073ec496b03fc9eed62efd17957321736c976e))
+* Cut and paste error ([65cab91](https://github.com/UltraKev/twodsix-foundryvtt/commit/65cab91561c9905242e3686376ba7d6e01478571))
+* Fixed differences between versions ([2d0f1e8](https://github.com/UltraKev/twodsix-foundryvtt/commit/2d0f1e86b6e87a170cce2366ad1be59e2501c80f))
+* Fixed differences between versions ([fbd2c96](https://github.com/UltraKev/twodsix-foundryvtt/commit/fbd2c969d620af4e542a04f3123f0c5cc9e5e7f2))
+* Funky item page stuff ([fcf3004](https://github.com/UltraKev/twodsix-foundryvtt/commit/fcf3004de6c8f22df31531d2606ee23ce0936f23))
+* Info tab visible again. Skill roll shows skill again. Fixed a lot of warnings. ([aa46fe9](https://github.com/UltraKev/twodsix-foundryvtt/commit/aa46fe94d1aeaa0839fad9e10d0a04fe01a26ac6))
+* Item page fixed and styled, Info page broken ([13d2aa2](https://github.com/UltraKev/twodsix-foundryvtt/commit/13d2aa20fbfabcf73358763b61044f1ebe855be9))
+* Item page fixed and styled, Info page broken ([1a7be64](https://github.com/UltraKev/twodsix-foundryvtt/commit/1a7be64e6b4b9bfd5ad122ff89bd2aed3ca4f2f7))
+* Item page fixed and styled, Info page broken ([3271bdb](https://github.com/UltraKev/twodsix-foundryvtt/commit/3271bdb0c29dd271c1b0a13433c187f2667cccf7))
+* Made max skill level into a system setting (default 9). ([a397de7](https://github.com/UltraKev/twodsix-foundryvtt/commit/a397de7b2110f02095b0d8827955efc5a806c5f2))
+* Made max skill level into a system setting (default 9). ([ec3914d](https://github.com/UltraKev/twodsix-foundryvtt/commit/ec3914d4ffed971a8da1acc27d6f6b277a130a2b))
+* Misspelled variable. ([45e1c69](https://github.com/UltraKev/twodsix-foundryvtt/commit/45e1c6912ec3a1760434b869937995bffed2bc0d))
+* Removed todo from system.json ([dd25074](https://github.com/UltraKev/twodsix-foundryvtt/commit/dd25074ae343eb12aa2eadb2e894d06a0d28dfde))
+* Set up all skills for cascade, but still buggy. ([db430ec](https://github.com/UltraKev/twodsix-foundryvtt/commit/db430ec0c2178f87ccabe8f39ac6f02d4710de70))
+* Set up all skills for cascade, but still buggy. ([39af597](https://github.com/UltraKev/twodsix-foundryvtt/commit/39af597f2e000da522480e31874000b8c054aeb7))
+* Support for cascade skills (only Animals so far, will add for all soon) ([74102ed](https://github.com/UltraKev/twodsix-foundryvtt/commit/74102ed3de1530b636ebc0978af81b7e34049769))
+* Support for cascade skills (only Animals so far, will add for all soon) ([b21ea51](https://github.com/UltraKev/twodsix-foundryvtt/commit/b21ea51d1242c061ec35840b231ff357cb9a02ce))
+* Updated the system description after a discussion with Kevin. ([557a0c3](https://github.com/UltraKev/twodsix-foundryvtt/commit/557a0c3aa08a87bbe74c6df8f8b8980d497c8918))
+
+
+### Features
+
+* Squashed, rebased, merged in changes from Kevin, tested that nothing seems to have broken. ([b437cdf](https://github.com/UltraKev/twodsix-foundryvtt/commit/b437cdf373b358c2f4bf3108be8ded168c814f96)), closes [#43](https://github.com/UltraKev/twodsix-foundryvtt/issues/43)
+
 ## [0.4.1](https://github.com/xdy/twodsix-foundryvtt/compare/v0.4.0...v0.4.1) (2020-08-29)
 
 
